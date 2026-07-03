@@ -1,4 +1,4 @@
-# 🚀 Launcher Minecraft (Beta)
+# OofyLauncher 1.0 (Beta)
 
 Launcher moderno para Minecraft, actualmente en fase **beta**.
 
@@ -9,6 +9,15 @@ Launcher moderno para Minecraft, actualmente en fase **beta**.
 ✔ Compatible con **Minecraft Vanilla**  
 ✔ Compatible con **Forge**  
 🚧 Soporte para **Fabric**, **NeoForge** y otros loaders próximamente  
+
+---
+
+## ⚠️ Advertencia importante
+
+Este launcher está diseñado principalmente en **español** 🇪🇸  
+Si hablas inglés 🇺🇸, algunas partes de la interfaz, textos o mensajes pueden aparecer en español.
+
+👉 Esto no afecta el funcionamiento del launcher, solo el idioma de la interfaz.
 
 ---
 
